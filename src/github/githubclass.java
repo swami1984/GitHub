@@ -6,6 +6,8 @@ public class githubclass {
 		// TODO Auto-generated method stub
 		
 		System.out.println("first java project");
+		System.out.println("first java project");
+		
 
 	}
 
